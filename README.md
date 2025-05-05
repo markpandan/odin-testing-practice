@@ -1,6 +1,10 @@
-# my-webpack-configuration
+# odin-testing-project
 
-This template repository contains the following npm modules: 
+This repository was made for submission to the [Odin Project: Testing Practice](https://www.theodinproject.com/lessons/node-path-javascript-testing-practice) 
+
+It also contains the following npm modules: 
+- babel
+- jest
 - webpack 
 - webpack-cli
 - html-webpack-plugin
